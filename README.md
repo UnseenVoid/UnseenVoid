@@ -3,16 +3,5 @@ Just another developer from a different void. It's a pleasure to meet ya!😁 An
 
 I am also an open-source supporter✌️. I benefited greatly from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing.
 
-### Languages I Know:
-***
-* C
-* Csharp
-* C++
-* Java
-* JavaScript / LiveScript
-* ECMA Script
-* Python
-* Ruby
-* HTML
-* CSS 
-* PHP
+### What I Know:
+~C  ~Csharp  ~C++  ~Java  ~Kotlin  ~JavaScript/LiveScript  ~ECMA Script  ~Python  ~Ruby  ~HTML  ~CSS  ~PHP  ~DotNET
